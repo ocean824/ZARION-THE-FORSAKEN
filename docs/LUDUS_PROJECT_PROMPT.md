@@ -1,0 +1,2 @@
+# Ludus Project Prompt — ZARION
+Initialize `ocean824/ZARION-THE-FORSAKEN` Unreal reference build under XYRA. Foundation Narrative Pro 2 + Ultra; Flexible Combat is primary prototype candidate; Action RPG is comparison/reference; boss/animation/VFX packs accelerate content. ZARION owns input, moves/frame/cancel/combo/style/weapon/enemy/boss contracts. Execute active CodeSpring manifest only; plan→implement→compile→measure/validate→adversarial combat review→fix→evidence. Preserve golden combat fixtures for AXIOM. Escalate combat/canon/engine changes to Ø.
