@@ -1,0 +1,2 @@
+# CodeSpring → Ludus
+Packages specify WP/requirements, move/combat contracts touched, objective/non-goals, dependencies, governing/task docs, Unreal targets, acceptance, frame/input/performance/adversarial tests and rollback. Sync active context to `Docs/XYRA`; branch `feature/ZARION-WP-XXXX`; Git/LFS Unreal assets. Independent XYRA review gates promotion.
