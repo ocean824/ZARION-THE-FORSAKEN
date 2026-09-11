@@ -1,0 +1,2 @@
+# XYRA Unreal Protocol — Ludus
+Authority Ø > ZARION docs > ADRs > active CodeSpring package > implementation. Loop REQUIREMENT→PLAN→IMPLEMENT→BUILD→VALIDATE→REVIEW→ATTACK→FIX→REVALIDATE→EVIDENCE→GIT. Narrative Pro 2 + Ultra default shell; selected combat framework has one owner. Fab boss/animation/VFX assets accelerate content, never define combat canon. Plan from active context/project, use C++/Blueprint appropriately, staged Ludus edits, compile and measure input/frame/camera/performance plus PIE/package. Combat identity/frame rules/canon/engine changes escalate.
